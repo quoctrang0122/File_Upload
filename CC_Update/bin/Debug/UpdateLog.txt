@@ -1,0 +1,187 @@
+17/09/2020 1:17:36 CH Create new file
+17/09/2020 1:17:36 CH Create new file
+17/09/2020 1:17:36 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 417
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 239
+17/09/2020 1:20:57 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 419
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 240
+17/09/2020 1:28:43 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 452
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 240
+17/09/2020 1:29:23 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 452
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 240
+17/09/2020 2:58:45 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+17/09/2020 2:59:27 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+17/09/2020 3:00:28 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+17/09/2020 3:01:19 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+17/09/2020 3:03:57 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+17/09/2020 3:04:46 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:28:54 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:29:19 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:33:19 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:34:25 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:35:09 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:36:47 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:37:37 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:41:38 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:43:32 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:52:16 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:52:44 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:52:57 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:53:46 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 15:58:04 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:01:06 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:01:40 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:04:08 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:06:04 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:09:12 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:10:09 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+21/12/2020 16:12:02 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+23/12/2020 08:27:43 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+05/01/2021 14:42:02 CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+03/02/2021 11:08:22 SA CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+04/05/2021 1:23:28 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+04/05/2021 1:24:40 CH CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
+1/11/2022 7:14:40 AM CCDownload.DownloadFile System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CC_Update.MES_Update.StrToDate(String sDate) in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 411
+   at CC_Update.MES_Update.Get_DownloadMax() in C:\Users\Trang\Desktop\CC_Update\CC_Update\MES_Update.cs:line 234
